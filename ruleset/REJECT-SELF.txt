@@ -1,0 +1,2 @@
+payload:
+  - DOMAIN-SUFFIX,weblb-wg.gslb.spotify.com
