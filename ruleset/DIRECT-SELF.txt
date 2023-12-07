@@ -1,6 +1,10 @@
 payload:
+  # 局域网
   - SRC-IP-CIDR,192.168.3.150/31
   - SRC-IP-CIDR,192.168.3.152/29
   - SRC-IP-CIDR,192.168.3.160/27
   - SRC-IP-CIDR,192.168.3.192/29
   - SRC-IP-CIDR,192.168.3.200/32
+  # 阿里云盘
+  - DOMAIN-SUFFIX,alipan.com
+  - DOMAIN-SUFFIX,aliyundrive.com
