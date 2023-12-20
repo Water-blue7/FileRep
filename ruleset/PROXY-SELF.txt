@@ -1,0 +1,5 @@
+payload:
+  # 走代理的规则集
+  - DOMAIN-KEYWORD,free4talk
+  - DOMAIN,free4talk.com
+  - DOMAIN-SUFFIX,free4talk.com
