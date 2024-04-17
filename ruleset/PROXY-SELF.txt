@@ -3,3 +3,4 @@ payload:
   - DOMAIN-KEYWORD,free4talk
   - DOMAIN,free4talk.com
   - DOMAIN-SUFFIX,free4talk.com
+  - DOMAIN-SUFFIX,twilio.com
